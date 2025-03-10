@@ -21,7 +21,7 @@ Depth determines how many moves ahead the AI will consider.
 
 Higher depth increases decision-making accuracy but slows down computation.
 
-Recommended depth: 2-4 (Depth > 6 may significantly slow down processing.)
+Recommended depth: 1-6 (Depth > 6 would significantly slow down processing.)
 
 User selects a predefined board state
 
@@ -55,9 +55,6 @@ Understanding Depth in Minimax:
 Enter Minimax search depth: 3
 
 Choose a predefined board state:
-1: Board 1
-2: Board 2
-...
 Enter a number (1-8): 2
 
 Here is the board you selected:
