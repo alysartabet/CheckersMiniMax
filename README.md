@@ -61,6 +61,7 @@ Choose a predefined board state:
 Enter a number (1-8): 2
 
 Here is the board you selected:
+```
 O . O . O . O .
 . O . O . O . O
 O . O . O . O .
@@ -69,6 +70,7 @@ O . O . O . O .
 . X . X . X . X
 X . X . X . X .
 . X . X . X . X
+```
 
 Best Possible Outcome:
 AI (X) wins! (1)
