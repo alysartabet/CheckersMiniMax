@@ -73,6 +73,6 @@ Best Possible Outcome:
 AI (X) wins! (1)
 
 Best Move Sequence to Achieve This Outcome:
-Step 1: Move from (5,2) to (4,3)
+```Step 1: Move from (5,2) to (4,3)
 Step 2: Move from (6,3) to (5,4)
-...
+...```
