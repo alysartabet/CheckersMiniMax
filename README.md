@@ -43,7 +43,7 @@ The AI shows the step-by-step best move sequence leading to the game's outcome.
 
 Run the program
 
-python3 checkers.py
+```python3 checkers.py```
 
 ## Example Output
 
